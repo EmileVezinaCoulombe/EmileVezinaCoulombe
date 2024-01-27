@@ -61,7 +61,7 @@ fn Footer() -> impl IntoView {
                         <span class="icon-[mdi--github] size-[40px]"></span>
                     </a>
                     <a href="https://github.com/EmileVezinaCoulombe/EmileVezinaCoulombe" target="_blank">
-                        <span class="icon-[lucide--file-code-2]"></span>
+                        <span class="icon-[lucide--file-code-2] size-[40px]"></span>
                     </a>
                     <a
                         href="https://www.linkedin.com/in/%C3%A9mile-v%C3%A9zina-coulombe-2b9534207/"
