@@ -113,5 +113,3 @@ fn NotFound() -> impl IntoView {
         <a href="/">"Going Home?"</a>
     }
 }
-
-
