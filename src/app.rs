@@ -60,7 +60,13 @@ fn Footer() -> impl IntoView {
                     <a href="https://github.com/EmileVezinaCoulombe/" target="_blank">
                         <span class="icon-[mdi--github] size-[40px]"></span>
                     </a>
-                    <a href="https://www.linkedin.com/in/%C3%A9mile-v%C3%A9zina-coulombe-2b9534207/" target="_blank">
+                    <a href="https://github.com/EmileVezinaCoulombe/EmileVezinaCoulombe" target="_blank">
+                        <span class="icon-[lucide--file-code-2]"></span>
+                    </a>
+                    <a
+                        href="https://www.linkedin.com/in/%C3%A9mile-v%C3%A9zina-coulombe-2b9534207/"
+                        target="_blank"
+                    >
                         <span class="icon-[mdi--linkedin] size-[40px]"></span>
                     </a>
                     <a href="mailto:emilevezinacoulombe@icloud.com">
@@ -70,7 +76,10 @@ fn Footer() -> impl IntoView {
                     <a href="https://www.google.com/maps/place/Lévis,+QC/" target="_blank">
                         <span class="icon-[uiw--map] size-[40px]"></span>
                     </a>
-                    <a href="https://github.com/EmileVezinaCoulombe/emilevezinacoulombe/assets/CV_Émile_Vézina-Coulombe_2024.pdf" target="_blank">
+                    <a
+                        href="https://github.com/EmileVezinaCoulombe/emilevezinacoulombe/tree/main/assets/CV_Émile_Vézina-Coulombe_2024.pdf"
+                        target="_blank"
+                    >
                         <span class="icon-[pepicons-pop--cv] size-[40px]"></span>
                     </a>
                 </div>
@@ -104,3 +113,5 @@ fn NotFound() -> impl IntoView {
         <a href="/">"Going Home?"</a>
     }
 }
+
+
